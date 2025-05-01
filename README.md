@@ -16,10 +16,6 @@ A GUI-based Tic Tac Toe game built in Python using `Tkinter` with three levels o
 
 ---
 
-## 📸 Screenshot
-*(Optional: Add screenshot here if you'd like)*
-
----
 
 ## ▶️ Getting Started
 
